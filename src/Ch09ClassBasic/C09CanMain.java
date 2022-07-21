@@ -8,9 +8,6 @@ package Ch09ClassBasic;
 // 디폴트 생성자는 클래스명과 동일하며,매개변수를 가지지 않는다.
 public class C09CanMain {
 
-	
-	
-
 class C09car
 {
 	

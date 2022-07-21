@@ -12,6 +12,12 @@ class LocalTest
 		num++;
 		System.out.println("num :" + num);	
 	}
+	public int getNum() {
+		return num;
+	}
+	public void setNum(int num) {
+		this.num = num;
+	}
 	void Func2()
 	{
 		System.out.println("num : " + num);
@@ -28,6 +34,8 @@ class LocalTest
 		for(int num=1; num<=10; num++;)''
 	}
 }
+
+
 public class C08LocalVar {
 
 	public static void main(String[] args) {
